@@ -60,7 +60,6 @@ public class LightSwitchToggle : MonoBehaviour {
     }
 	void OnMouseDown()
 	{
-		Debug.Log("Hello", gameObject);
 		//ToggleLights ();
 		l1.enabled = !l1.enabled;
 		l2.enabled = !l2.enabled;
@@ -70,7 +69,5 @@ public class LightSwitchToggle : MonoBehaviour {
 		l6.enabled = !l6.enabled;
 		l7.enabled = !l7.enabled;
 		l8.enabled = !l8.enabled;
-
-
 	}
 }
