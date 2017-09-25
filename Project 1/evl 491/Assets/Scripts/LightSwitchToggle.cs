@@ -7,6 +7,8 @@ public class LightSwitchToggle : MonoBehaviour {
     public Material mat;
     public int matIndex;
 
+	public Light l1, l2, l3, l4, l5, l6, l7, l8;
+
 	// Use this for initialization
 	void Start () {
         lights = GetComponentsInChildren<Light>();
@@ -56,4 +58,19 @@ public class LightSwitchToggle : MonoBehaviour {
                 l.shadows = LightShadows.None;
         }
     }
+	void OnMouseDown()
+	{
+		Debug.Log("Hello", gameObject);
+		//ToggleLights ();
+		l1.enabled = !l1.enabled;
+		l2.enabled = !l2.enabled;
+		l3.enabled = !l3.enabled;
+		l4.enabled = !l4.enabled;
+		l5.enabled = !l5.enabled;
+		l6.enabled = !l6.enabled;
+		l7.enabled = !l7.enabled;
+		l8.enabled = !l8.enabled;
+
+
+	}
 }
