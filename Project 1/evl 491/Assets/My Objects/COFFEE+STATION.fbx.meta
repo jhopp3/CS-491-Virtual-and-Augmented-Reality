@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: cea87bc0641e99b409b3f9d1d71f2984
+timeCreated: 1506304441
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BREAK1
+    100002: //RootNode
+    100004: COFFEE1
+    100006: Coffee_Maker1
+    100008: Component_1_1
+    100010: Group1
+    100012: Group2
+    100014: Mesh1
+    100016: Mesh10
+    100018: Mesh11
+    100020: Mesh2
+    100022: Mesh3
+    100024: Mesh4
+    100026: Mesh5
+    100028: Mesh6
+    100030: Mesh7
+    100032: Mesh8
+    100034: Mesh9
+    100036: Microwave__Panasonic__NN_C784MF__500x400x312_skp1
+    100038: Microwave__Panasonic__NN_C784MF__500x400x312_skp2
+    100040: Microwave_Panasonic_NN_C784MF_500x400x312_1
+    100042: Microwave_Panasonic_NN_C784MF_500x400x312_2
+    100044: Sink1
+    100046: SINK_UNIT1
+    100048: tap1
+    100050: tap_handle1
+    100052: tap_nozzle1
+    400000: BREAK1
+    400002: //RootNode
+    400004: COFFEE1
+    400006: Coffee_Maker1
+    400008: Component_1_1
+    400010: Group1
+    400012: Group2
+    400014: Mesh1
+    400016: Mesh10
+    400018: Mesh11
+    400020: Mesh2
+    400022: Mesh3
+    400024: Mesh4
+    400026: Mesh5
+    400028: Mesh6
+    400030: Mesh7
+    400032: Mesh8
+    400034: Mesh9
+    400036: Microwave__Panasonic__NN_C784MF__500x400x312_skp1
+    400038: Microwave__Panasonic__NN_C784MF__500x400x312_skp2
+    400040: Microwave_Panasonic_NN_C784MF_500x400x312_1
+    400042: Microwave_Panasonic_NN_C784MF_500x400x312_2
+    400044: Sink1
+    400046: SINK_UNIT1
+    400048: tap1
+    400050: tap_handle1
+    400052: tap_nozzle1
+    2300000: Mesh1
+    2300002: Mesh10
+    2300004: Mesh11
+    2300006: Mesh2
+    2300008: Mesh3
+    2300010: Mesh4
+    2300012: Mesh5
+    2300014: Mesh6
+    2300016: Mesh7
+    2300018: Mesh8
+    2300020: Mesh9
+    3300000: Mesh1
+    3300002: Mesh10
+    3300004: Mesh11
+    3300006: Mesh2
+    3300008: Mesh3
+    3300010: Mesh4
+    3300012: Mesh5
+    3300014: Mesh6
+    3300016: Mesh7
+    3300018: Mesh8
+    3300020: Mesh9
+    4300000: Mesh1
+    4300002: Mesh2
+    4300004: Mesh3
+    4300006: Mesh4
+    4300008: Mesh5
+    4300010: Mesh6
+    4300012: Mesh7
+    4300014: Mesh8
+    4300016: Mesh9
+    4300018: Mesh10
+    4300020: Mesh11
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
